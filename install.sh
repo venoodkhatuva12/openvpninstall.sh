@@ -1,4 +1,8 @@
 #!/bin/bash
+#Script made for OpenVPN installtion
+#Author: Vinod.N K
+#Usage: tunneling and vpn access
+#Distro : Linux -Centos, Rhel, and any fedora
 
 #Check whether root user is running the script
 if [ "$(id -u)" != "0" ]; then
